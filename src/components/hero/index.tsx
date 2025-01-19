@@ -25,7 +25,7 @@ const HeroSection = () => {
       {/* Content */}
       <div className='relative z-10 max-w-7xl mx-auto px-6 text-center'>
         <h1 className='text-5xl md:text-7xl font-extrabold drop-shadow-md'>
-          Unlock Your Startup's Potential
+          Unlock Your Startup&apos;s Potential
         </h1>
         <p className='mt-6 text-lg md:text-2xl text-gray-100'>
           Connect with industry-leading mentors to elevate your business. Book
