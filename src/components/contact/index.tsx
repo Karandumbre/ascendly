@@ -25,7 +25,7 @@ export const Contact = () => {
                 <div className='space-y-4'>
                   <div className='flex items-center'>
                     <Mail className='h-5 w-5 text-blue-600 mr-3' />
-                    <span>support@ascendly.com</span>
+                    <span>karan@ascendly.app</span>
                   </div>
                   <div className='flex items-center'>
                     <Phone className='h-5 w-5 text-blue-600 mr-3' />
